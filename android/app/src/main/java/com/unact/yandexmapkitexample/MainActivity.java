@@ -11,7 +11,7 @@ public class MainActivity extends FlutterActivity {
   @Override
   public void configureFlutterEngine(@NonNull FlutterEngine flutterEngine) {
 //    MapKitFactory.setLocale("YOUR_LOCALE");
-    MapKitFactory.setApiKey("466da8cb-8784-4e2e-b549-94a9b7f0479b");
+    MapKitFactory.setApiKey("466da8cb-8784-4e2e-b549-94a9b7f0479b#");
     super.configureFlutterEngine(flutterEngine);
   }
 }
